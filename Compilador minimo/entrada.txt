@@ -1,0 +1,4 @@
+int main(){
+    int
+    return 100+5-2;
+}
